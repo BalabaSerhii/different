@@ -19,3 +19,5 @@ categoryItems.forEach((category) => {
   console.log(`Category: ${categoryName}`);
   console.log(`Elements: ${categoryElements.length}`);
 });
+
+// hngnhg
